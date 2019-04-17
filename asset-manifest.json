@@ -1,13 +1,13 @@
 {
-  "main.css": "/website/static/css/main.37846f42.chunk.css",
-  "main.js": "/website/static/js/main.b847ff05.chunk.js",
-  "main.js.map": "/website/static/js/main.b847ff05.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/website/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/website/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/website/static/js/runtime~main.df8eefd1.js",
-  "runtime~main.js.map": "/website/static/js/runtime~main.df8eefd1.js.map",
-  "static/css/main.37846f42.chunk.css.map": "/website/static/css/main.37846f42.chunk.css.map",
-  "index.html": "/website/index.html",
-  "precache-manifest.6bdceb038ac30e4bdf5a8f6242409cb4.js": "/website/precache-manifest.6bdceb038ac30e4bdf5a8f6242409cb4.js",
-  "service-worker.js": "/website/service-worker.js"
+  "main.css": "/mfrancogiraldez.github.io/static/css/main.37846f42.chunk.css",
+  "main.js": "/mfrancogiraldez.github.io/static/js/main.998b3776.chunk.js",
+  "main.js.map": "/mfrancogiraldez.github.io/static/js/main.998b3776.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/mfrancogiraldez.github.io/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/mfrancogiraldez.github.io/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/mfrancogiraldez.github.io/static/js/runtime~main.4c816d08.js",
+  "runtime~main.js.map": "/mfrancogiraldez.github.io/static/js/runtime~main.4c816d08.js.map",
+  "static/css/main.37846f42.chunk.css.map": "/mfrancogiraldez.github.io/static/css/main.37846f42.chunk.css.map",
+  "index.html": "/mfrancogiraldez.github.io/index.html",
+  "precache-manifest.71809dcbaff164344b6dc98c32ddcf2b.js": "/mfrancogiraldez.github.io/precache-manifest.71809dcbaff164344b6dc98c32ddcf2b.js",
+  "service-worker.js": "/mfrancogiraldez.github.io/service-worker.js"
 }
